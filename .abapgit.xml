@@ -4,7 +4,8 @@
   <DATA>
    <MASTER_LANGUAGE>E</MASTER_LANGUAGE>
    <FOLDER_LOGIC>FULL</FOLDER_LOGIC>
-   <STARTING_FOLDER>/lbn-gtt-pof-sample/ABAP/src/</STARTING_FOLDER>
+   <STARTING_FOLDER>/logistics-business-network-gtt-samples/lbn-gtt-template-tpo/ABAP/zsrc/
+</STARTING_FOLDER>
    <IGNORE>
     <item>/.abapgit.xml</item> 
     <item>/.gitignore</item>    
